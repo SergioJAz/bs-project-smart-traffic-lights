@@ -1,0 +1,13 @@
+torch
+opencv-python
+RPi.GPIO
+# YOLOv5 runtime deps (loaded through torch.hub from ultralytics/yolov5)
+pandas
+requests
+Pillow
+PyYAML
+tqdm
+matplotlib
+seaborn
+scipy
+psutil
